@@ -1,3 +1,5 @@
+# first you need to clone project ``git clone https://github.com/aghekyanvahe/symfony-test-task.git``
+
 # If you want to run app need to use these versions
 
 We are using php7.4 and composer 2.1 version  
